@@ -1,0 +1,15 @@
+body {
+font-family: Verdana;
+font-size: 80%;
+background-color : #19ff231f;
+}
+h1 {
+font-size: 120%;
+color: blue;
+}
+a {
+color: green;
+}
+img {
+margin-left: 200px;
+}
